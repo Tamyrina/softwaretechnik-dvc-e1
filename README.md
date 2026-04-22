@@ -2,18 +2,11 @@
 
 Einsendeaufgabe DVC-E1: Versionsverwaltung mit Git
 
-<<<<<<< HEAD
-
-
 Lokale Änderung für git status
 
-=======
+
 Test für git diff
 
-
-======
-Testdatei hinzugefügt und entfernt
-<img width="838" height="434" alt="image" src="https://github.com/user-attachments/assets/d72b9cb8-7856-47e4-9dda-93cfa7ea9a2a" />
 
 ## Nachweis Git-Befehle
 
@@ -28,3 +21,15 @@ Testdatei hinzugefügt und entfernt
 
 ### git mv
 ![git mv](mv.png)
+
+### git log
+![git log](log.png)
+
+### git clone
+![git clone](clone.png)
+
+### git zeitreise1
+![git zeitreise1](zeitreise1.png)
+
+### git zeitreise2
+![git zeitreise2](zeitreise2.png)
