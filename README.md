@@ -7,6 +7,7 @@ Lokale Änderung für git status
 
 Test für git diff
 
+Die Änderungen und Versionsverläufe wurden mithilfe von Git-Befehlen nachvollzogen und dokumentiert.
 
 ## Nachweis Git-Befehle
 
@@ -28,10 +29,10 @@ Test für git diff
 ### git clone
 ![git clone](clone.png)
 
-### git zeitreise1
+### git show (zeitreise1)
 ![git zeitreise1](zeitreise1.png)
 
-### git zeitreise2
+### git diff zwischen Commits (zeitreise2)
 ![git zeitreise2](zeitreise2.png)
 
 ## Branches und Merge
@@ -39,3 +40,4 @@ Test für git diff
 ### vorhandene Branches
 Es wurden zwei Branches (feature-a und feature-b) erstellt und zwischen ihnen gewechselt.
 ![git branch](branch.png)
+Die Branches wurden anschließend wieder in den main-Branch gemerged.
