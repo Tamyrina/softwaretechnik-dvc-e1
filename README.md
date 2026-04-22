@@ -33,3 +33,9 @@ Test für git diff
 
 ### git zeitreise2
 ![git zeitreise2](zeitreise2.png)
+
+## Branches und Merge
+
+### vorhandene Branches
+Es wurden zwei Branches (feature-a und feature-b) erstellt und zwischen ihnen gewechselt.
+![git branch](branch.png)
