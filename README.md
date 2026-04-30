@@ -2,14 +2,24 @@
 
 Einsendeaufgabe DVC-E1: Versionsverwaltung mit Git
 
-Lokale Änderung für git status
+Vanessa Fidorra
+---
 
+## Aufgabe 1: Repository erstellen
+Ein öffentliches Repository wurde auf GitHub erstellt.
+
+## Aufgabe 2: Projekt hochladen
+Ein eigenes Projekt wurde erstellt und in das Repository gepusht.
+
+---
+
+## Aufgabe 3: Git-Methoden anwenden
+
+Lokale Änderung für git status
 
 Test für git diff
 
 Die Änderungen und Versionsverläufe wurden mithilfe von Git-Befehlen nachvollzogen und dokumentiert.
-
-## Nachweis Git-Befehle
 
 ### git status
 ![git status](status.png)
@@ -29,15 +39,30 @@ Die Änderungen und Versionsverläufe wurden mithilfe von Git-Befehlen nachvollz
 ### git clone
 ![git clone](clone.png)
 
-### git show (zeitreise1)
+---
+
+## Aufgabe 4: Zeitreisen
+
+Die Commit-Historie wurde analysiert und frühere Zustände betrachtet.
+
+### git show (Zeitreise)
 ![git zeitreise1](zeitreise1.png)
 
-### git diff zwischen Commits (zeitreise2)
+### git diff zwischen Commits
 ![git zeitreise2](zeitreise2.png)
 
-## Branches und Merge
+---
+
+## Aufgabe 5: Branches und Merge
+
+Es wurden zwei Branches (feature-a und feature-b) erstellt, zwischen ihnen gewechselt und anschließend wieder in den main-Branch gemerged.
 
 ### vorhandene Branches
-Es wurden zwei Branches (feature-a und feature-b) erstellt und zwischen ihnen gewechselt.
 ![git branch](branch.png)
-Die Branches wurden anschließend wieder in den main-Branch gemerged.
+
+---
+
+## Aufgabe 6: Pull Request
+
+Pull Request:
+https://github.com/edlich/education/pull/572
